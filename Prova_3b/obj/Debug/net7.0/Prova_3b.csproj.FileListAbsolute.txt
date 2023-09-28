@@ -1,0 +1,15 @@
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\bin\Debug\net7.0\Prova_3b.exe
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\bin\Debug\net7.0\Prova_3b.deps.json
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\bin\Debug\net7.0\Prova_3b.runtimeconfig.json
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\bin\Debug\net7.0\Prova_3b.dll
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\bin\Debug\net7.0\Prova_3b.pdb
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\obj\Debug\net7.0\Prova_3b.csproj.AssemblyReference.cache
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\obj\Debug\net7.0\Prova_3b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\obj\Debug\net7.0\Prova_3b.AssemblyInfoInputs.cache
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\obj\Debug\net7.0\Prova_3b.AssemblyInfo.cs
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\obj\Debug\net7.0\Prova_3b.csproj.CoreCompileInputs.cache
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\obj\Debug\net7.0\Prova_3b.dll
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\obj\Debug\net7.0\refint\Prova_3b.dll
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\obj\Debug\net7.0\Prova_3b.pdb
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\obj\Debug\net7.0\Prova_3b.genruntimeconfig.cache
+C:\Users\tayll\source\repos\Prova_3b\Prova_3b\obj\Debug\net7.0\ref\Prova_3b.dll
